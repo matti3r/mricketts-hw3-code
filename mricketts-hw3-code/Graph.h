@@ -1,10 +1,16 @@
+/**
+ * Author: Matthew Ricketts
+ * File: Graph.h
+ * Project: CS210 Homework 3
+ * Date: 4/4/2022
+ * Excerpt: Graph and shortest path implementation
+ */
+
 #ifndef GRAPH_H
 #define GRAPH_H
 
 #include <string>
 #include <vector>
-
-// https://favtutor.com/blogs/dijkstras-algorithm-cpp#:~:text=Algorithm%20for%20Dijkstra's%20in%20C%2B%2B&text=Consider%20source%20vertex%20as%20current,replace%20it%20otherwise%20ignore%20it
 
 using namespace std;
 

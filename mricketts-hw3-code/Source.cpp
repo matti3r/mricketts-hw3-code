@@ -1,4 +1,10 @@
-
+/**
+ * Author: Matthew Ricketts
+ * File: Source.cpp
+ * Project: CS210 Homework 3
+ * Date: 4/4/2022
+ * Excerpt: Graph and shortest path menu
+ */
 
 #include <iostream>
 #include <string>
@@ -16,7 +22,7 @@ int main() {
 	
 	Graph graph = Graph();
 
-	debugFillGraph(graph);
+	//debugFillGraph(graph);
 
 	string userMenuOption;
 
